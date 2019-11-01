@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+.title{
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.container{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    background-color: firebrick;
+}
+.container2{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    background-color: palevioletred;
+}
+.container3{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+}
+.container4{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    background-color:seagreen;
+}
+.container5{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    background-color: orange;
+}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+/*.birthday{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+}
+.info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+}
+.abilitie{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+}*/
+.foto{
+    width: 200px;
+    height: 400px;
+}
